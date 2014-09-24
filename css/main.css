@@ -26,7 +26,7 @@ nav ul li a {
   padding: 18px;
   font-family: "Open Sans";
   text-transform:uppercase;
-  color: #FFFFFF;
+  color: #FFFFFF; <--outline-style: 
   font-size: 18px;
   text-decoration: none;
   display: block;

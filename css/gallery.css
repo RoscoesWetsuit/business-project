@@ -270,4 +270,29 @@ nav ul li a:hover {
               0px 5px 15px 0px #000;
  }
 
+ .box4{
+  width: auto;
+  height: 400px;
+  background: url('https://mail.google.com/mail/u/0/?ui=2&ik=5fdab7f418&view=fimg&th=1488a2cb0dac2e0f&attid=0.1&disp=inline&realattid=1479611469808009216-local0&safe=1&attbid=ANGjdJ_9U-Vzni2GWjiKcV0Z9C5uwTGYpZW--zQK5VWNK6W6P5HIcyH_uIDYHXfvSsz0UisWKrsdlq7tmjecn4jVoFn8qPVY-vKV1_towWQjtJSuLlJxqcuicJoG3S4&ats=1411138162825&rm=1488a2cb0dac2e0f&zw&sz=w1342-h547');
+  background-repeat: no-repeat;
+  background-size: 320px 400px;
+  overflow: hidden;
+  margin: 5px;
+  border: 1px solid #000;
+  box-shadow: 0px 0px 15px 0px #666,
+              0px 5px 15px 0px #000;
+ }
+
+ .box5{
+  width: auto;
+  height: 700px;
+  background: url('https://mail.google.com/mail/u/0/?ui=2&ik=5fdab7f418&view=fimg&th=1488a2d034f51e25&attid=0.1&disp=inline&realattid=1479611491882631168-local0&safe=1&attbid=ANGjdJ8TtQOCgR3rG7IfxiXktyephl-iU6A1wecbTe2BTqI5Omwi-0_3_b5OQ2cnFJAYzOyMHaHt1KuHFM2iY6OJkrlN4nFgCaWtgRf13upVWwCROt0sNF8moIBaejk&ats=1411138162777&rm=1488a2d034f51e25&zw&sz=w1342-h547');
+  background-size: 320px 700px;
+  overflow: hidden;
+  margin: 5px;
+  border: 1px solid #000;
+  box-shadow: 0px 0px 15px 0px #666,
+              0px 5px 15px 0px #000;
+ }
+
 }
