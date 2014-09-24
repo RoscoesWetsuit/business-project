@@ -26,7 +26,7 @@ nav ul li a {
   padding: 18px;
   font-family: "Open Sans";
   text-transform:uppercase;
-  color: rgba(0, 35, 122, 0.5);
+  color: #FFFFFF;
   font-size: 18px;
   text-decoration: none;
   display: block;
@@ -37,3 +37,20 @@ nav ul li a:hover {
   background: rgba(255, 255, 255, 0.1);
   color: rgba(0, 35, 122, 0.7);
 }
+
+@media screen and(max-width: 640px) {
+}
+@media(max-width: 320px) {
+
+	nav {
+			float:left;
+			width: auto;
+		}
+
+body {
+	background: url(http://thetravelbugtv.com/wp-content/uploads/2012/06/Downtown-Skyline-4.jpg);
+	background-size: 320px 568px;
+}
+
+}
+

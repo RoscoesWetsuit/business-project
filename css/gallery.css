@@ -21,7 +21,7 @@ nav ul li a {
   padding: 18px;
   font-family: "Open Sans";
   text-transform:uppercase;
-  color: rgba(0, 35, 122, 0.5);
+  color: #FFFFFF;
   font-size: 18px;
   text-decoration: none;
   display: block;
@@ -73,7 +73,7 @@ nav ul li a:hover {
 }
 
 .box2{
-  width:400px;
+  width:400px; 
   height: 700px;
   background: url('https://mail.google.com/mail/u/0/?ui=2&ik=5fdab7f418&view=fimg&th=1488a2c9e18fd02c&attid=0.1&disp=inline&realattid=1479611463122288640-local0&safe=1&attbid=ANGjdJ_s5gdSLxoqfOxpW8tfcC93G7e4ZK7yMlJgaSuo1NVdJ-y-6Y91GmBWNRIZv5dV6rGw8jDgxAmt98e2cveu65yULADteOQS5iCdYruJWrVuG87EJgoGyTP2PlQ&ats=1411107211815&rm=1488a2c9e18fd02c&zw&sz=w1342-h547');
   background-size: 350px 700px;
