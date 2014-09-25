@@ -41,8 +41,11 @@ nav ul li a:hover {
 .title {
   padding: 18px;
   font-family: "Open Sans";
-  text-transform:uppercase;
+  text-transform: uppercase;
   color: rgba(0, 35, 122, 0.5);
+  position: relative;
+  left: 186px;
+  top: -80px;
 }
 
 @media screen and(max-width: 640px) {
@@ -59,5 +62,10 @@ body {
 	background-size: 320px 568px;
 }
 
+.title {
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
 }
 
+}
