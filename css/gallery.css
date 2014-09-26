@@ -16,7 +16,7 @@ nav ul {
 nav ul li {
   display: inline-block;
 }
-
+/*this makes the text look how it looks*/
 nav ul li a {
   padding: 18px;
   font-family: "Open Sans";
@@ -284,8 +284,6 @@ nav ul li a:hover {
   height: 400px;
   background: url('https://mail.google.com/mail/u/0/?ui=2&ik=5fdab7f418&view=fimg&th=1488a2cb0dac2e0f&attid=0.1&disp=inline&realattid=1479611469808009216-local0&safe=1&attbid=ANGjdJ_9U-Vzni2GWjiKcV0Z9C5uwTGYpZW--zQK5VWNK6W6P5HIcyH_uIDYHXfvSsz0UisWKrsdlq7tmjecn4jVoFn8qPVY-vKV1_towWQjtJSuLlJxqcuicJoG3S4&ats=1411138162825&rm=1488a2cb0dac2e0f&zw&sz=w1342-h547');
   background-repeat: no-repeat;
-  position: relative;
-  left: 200px;
   background-size: 320px 400px;
   overflow: hidden;
   margin: 5px;
